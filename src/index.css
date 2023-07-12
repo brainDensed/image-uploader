@@ -1,0 +1,14 @@
+.App{
+  display: flex;
+  justify-content: center;
+  height: 100vh;
+  background-color: #FAFAFB;
+  align-items: center;
+}
+.box-uploader{
+  height: 469px;
+  width: 402px;
+  background-color: #FFF;
+  border-radius: 12px;
+  box-shadow: 0px 4px 12px 0px rgba(0, 0, 0, 0.10);
+}
